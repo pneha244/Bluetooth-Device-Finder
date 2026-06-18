@@ -25,3 +25,7 @@ A Python application that discovers nearby Bluetooth devices, lists unique devic
 - Bluetooth adapter support depends on the platform and hardware.
 - The app uses `bleak` for cross-platform Bluetooth scanning.
 - On Windows, Bluetooth permission and adapter support are required.
+
+## Authors
+
+Developed by Neha P
